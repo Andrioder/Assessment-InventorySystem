@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc24fdc1ed6d554184a82fc6c19813e, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  itemName: Tomato
+  maxCapacity: 10
+  iconUISprite: {fileID: 21300000, guid: d51303c4ba2fe764f823eb752026a87a, type: 3}
+  itemPrefabObject: {fileID: 2385466699439251307, guid: c7e8b65cecfbfb648a7a60fa3707fc29,
+    type: 3}

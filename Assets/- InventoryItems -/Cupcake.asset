@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc24fdc1ed6d554184a82fc6c19813e, type: 3}
+  m_Name: Cupcake
+  m_EditorClassIdentifier: 
+  itemName: Cupcake
+  maxCapacity: 10
+  iconUISprite: {fileID: 21300000, guid: 10acc01f7020bd24ebcd84914f15259d, type: 3}
+  itemPrefabObject: {fileID: 8703958327751788413, guid: 06c42a802f16e554c96b98791825c5d6,
+    type: 3}

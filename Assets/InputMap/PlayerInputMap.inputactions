@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputMap",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "f5297aa3-6cfb-4c20-912d-b12db978d265",
+            "actions": [
+                {
+                    "name": "TAB",
+                    "type": "Button",
+                    "id": "798d849b-bad5-4a27-873c-46b53aefcb1d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0c975514-95e5-40bc-87dc-5d45d6511d55",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TAB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
